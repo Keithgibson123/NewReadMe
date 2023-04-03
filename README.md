@@ -14,6 +14,8 @@
   ## Installation
   Run npm i
   ## Usage
+  [Untitled_ Apr 3, 2023 5_06 PM.webm](https://user-images.githubusercontent.com/123913103/229649705-ce18aefc-5bb9-4ef1-9d4a-117e0634a7d5.webm)
+
   follow the instructions in the command line
   
   ## Tests
